@@ -8,3 +8,6 @@ A implementation of a search text engine from [this tutorial](https://artem.kryl
 4. execute the binary `./text-search-engine`
 5. You can search as many sentences you want.
 6. Type `exit` to... exit
+
+### Screenshot
+![alt text](https://raw.githubusercontent.com/vmkevv/text-search-engine/main/screenshot.png "engine running")
